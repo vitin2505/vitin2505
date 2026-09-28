@@ -1,13 +1,13 @@
 ## Ola, eu sou o Vitor 👋
 
-🎓 Estudante de Engenharia de Software na UMC
+Estudante de Engenharia de Software na UMC
 
-### 🚀 Sobre mim
+### Sobre mim
 
 - Foco em Front-end, Back-end, Banco de Dados e Python
 - Trabalho com automacao de processos 
 
-### 🛠️ Stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,11 +18,11 @@
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📌 Projetos em destaque
+### Projetos em destaque
 
 - **[automatizacaoSC](https://github.com/vitin2505/automatizacaoSC)** — Automacao em Python de processos de autorizacao em portais de saude, com Selenium.
 - **[CirculaGov](https://github.com/Grupo-Opus-Dev/circulagov)** — Projeto em grupo desenvolvido pelo Grupo Opus Dev.
 
-### 📫 Contato
+### Contato
 
-📍 Sao Paulo, SP
+Sao Paulo, SP
